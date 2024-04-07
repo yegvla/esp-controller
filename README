@@ -1,0 +1,6 @@
+esp-controller
+----------------------------------------------------------------------
+
+Sloppy code for getting a PS3 controller connected to a ESP with usb
+host capabilities using the esp-idf.  A example usage for Arduini can
+be found in the `arduino` folder.
